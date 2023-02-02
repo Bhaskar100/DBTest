@@ -26,7 +26,7 @@ try:
 
 
 
-	"""
+
 	print('--------------------')
 	print(pp.iloc[1])
 	print()
@@ -80,7 +80,7 @@ try:
 	print("Scatter Plot:  ")
 	plt.scatter(pp["FNAME"], pp["PETS"])
 	plt.show()
-	"""
+
 
 
 
